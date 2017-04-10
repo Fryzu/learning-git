@@ -1,3 +1,3 @@
 Learining GIT:
 
-Learning how to use git on github
+Some of my very first pieces of code :)
