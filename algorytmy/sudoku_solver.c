@@ -1,4 +1,5 @@
 //Sudku solver - using backtracking
+//Input sudoku board - where empty put 0
 
 #include <stdio.h>
 

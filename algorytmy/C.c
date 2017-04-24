@@ -1,4 +1,6 @@
 //Prime numbers calculator
+//First line input question number
+//Second line - questions
 
 #include <stdio.h>
 #define MAX 1000001

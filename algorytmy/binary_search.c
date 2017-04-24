@@ -1,4 +1,6 @@
 //Binary search
+//First line number of input numbers and number of questions
+//Second line questions
 
 #include <stdio.h>
 
