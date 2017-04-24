@@ -1,3 +1,5 @@
+//Input sudoku board - where empty put 0
+
 #include <stdio.h>
 
 int sudoku_check(int check_number, int sudoku_table[9][9], int column, int row)

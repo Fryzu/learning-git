@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+//First line number of questions, functions PUSH POP TOP
+
 using namespace std;
 
 struct Node {

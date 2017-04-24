@@ -1,3 +1,6 @@
+//First line number of input numbers
+//Second line input data
+
 #include <stdio.h>
 
 void swap(int,int);

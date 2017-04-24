@@ -1,5 +1,7 @@
 //Rozwiązywanie równania
 
+//A sin(Bx + C) + De^(Ex+F) + G|Hx+I| + J
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

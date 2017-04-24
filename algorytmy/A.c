@@ -1,4 +1,5 @@
 //NWD i NWW
+/*z - number of inputs */
 
 #include <stdio.h>
 
