@@ -1,4 +1,5 @@
-//NWD i NWW
+/*Greatest common dividor NWD
+  and least common multuple NWW*/
 
 #include <stdio.h>
 

@@ -1,3 +1,5 @@
+//Binary search
+
 #include <stdio.h>
 
 int bin_search(int, int[], int);

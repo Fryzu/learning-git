@@ -1,4 +1,4 @@
-//Rozwiązywanie równania
+//Rozwiązywanie równania - solving equations
 
 #include <stdio.h>
 #include <string.h>

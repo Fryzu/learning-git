@@ -1,3 +1,5 @@
+//Sudku solver - using backtracking
+
 #include <stdio.h>
 
 int sudoku_check(int check_number, int sudoku_table[9][9], int column, int row)

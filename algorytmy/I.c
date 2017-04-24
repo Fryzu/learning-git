@@ -4,6 +4,9 @@ Na przykład „ula” -> 117+108+97=322 oraz „exe” -> 101+120+101=322.
 
 Twoim zadaniem jest wczytanie dwóch wyrazów i oraz sprawdzenie czy z podzbioru liter zawartych w słowie można stworzyć wyraz ważący tyle samo co wyraz .*/
 
+//zadanie z hackerranka
+
+
 #include <stdio.h>
 #define SIZE 31
 
