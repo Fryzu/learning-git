@@ -1,4 +1,6 @@
-//NWD i NWW
+/*Greatest common dividor NWD
+  and least common multuple NWW*/
+  
 /*z - number of inputs */
 
 #include <stdio.h>

@@ -1,4 +1,4 @@
-//Rozwiązywanie równania
+//Rozwiązywanie równania - solving equations
 
 //A sin(Bx + C) + De^(Ex+F) + G|Hx+I| + J
 

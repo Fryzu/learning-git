@@ -1,9 +1,7 @@
 /*Wyrazy budowane są z liter a..z. Dwa wyrazy „ważą” tyle samo jeżeli: mają tę samą liczbę samogłosek oraz sumy kodów ascii liter z których są zbudowane są identyczne.
+Na przykład „ula” -> 117+108+97=322 oraz „exe” -> 101+120+101=322. Twoim zadaniem jest wczytanie dwóch wyrazów i oraz sprawdzenie czy z podzbioru liter zawartych w słowie można stworzyć wyraz ważący tyle samo co wyraz .*/
 
-Na przykład „ula” -> 117+108+97=322 oraz „exe” -> 101+120+101=322.
-
-Twoim zadaniem jest wczytanie dwóch wyrazów i oraz sprawdzenie czy z podzbioru liter zawartych w słowie można stworzyć wyraz ważący tyle samo co wyraz .*/
-
+//zadanie z hackerranka
 //two words to compare
 
 #include <stdio.h>
